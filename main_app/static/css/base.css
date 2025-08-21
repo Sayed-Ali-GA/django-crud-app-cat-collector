@@ -1,7 +1,3 @@
-body{
-    background-color: rgba(218, 254, 254, 0.817);
-}
-
 /* static/css/base.css  */
 
 html {
@@ -33,8 +29,8 @@ body {
     'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
     'Helvetica Neue', sans-serif;
   min-height: 100vh;
-  --nav-bg: rgba(104, 197, 248, 0.7);
-  --nav-bg-ff: rgba(104, 197, 248, 0.9);
+  --nav-bg: rgba(200, 104, 248, 0.7);
+  --nav-bg-ff: rgba(200, 104, 248, 0.7);
   --borders: rgb(36, 116, 248) solid 2px;
   --text-color: rgb(17, 20, 17);
   --link-hover-color: rgb(16, 56, 158);
